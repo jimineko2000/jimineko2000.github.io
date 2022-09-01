@@ -1,18 +1,18 @@
-## クルクル恐竜
+# じみ猫 アプリ開発ページ
 
-[ルール説明](rules_jp.html)
+## クルクル恐竜 
 
-[プライバシーポリシー](privacy.html)
+[ルール説明](https://jimineko2000.github.io/RollingDinos/rollingdinosjp.html")
 
-*2022.7.30 クルクル恐竜 Version 1.0 リリース
+
+[プライバシーポリシー](https://jimineko2000.github.io/RollingDinos/privacy.html)
 
 
 ## Rolling Dinos
 
-[Game Rules](rules_en.html)
+[ルール説明](https://jimineko2000.github.io/RollingDinos/rollingdinos.html")
 
-[Privacy Policy](privacy.html)
 
-*2022.7.30 Rolling Dinos Version 1.0 Released
+[プライバシーポリシー](https://jimineko2000.github.io/RollingDinos/privacy.html)
 
 
