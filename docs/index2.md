@@ -7,7 +7,7 @@
 [ゲーム説明](https://jimineko2000.github.io/Labyrinth-of-Aetheria/Labyrinth-of-Aetheria_jp.html)
 
 
-[プライバシーポリシー](https://jimineko2000.github.io/RollingDinos/privacy.html)
+[プライバシーポリシー](https://jimineko2000.github.ioLabyrinth-of-Aetheria/privacy.html)
 
 
 ## クルクル恐竜 
