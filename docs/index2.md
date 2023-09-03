@@ -1,8 +1,10 @@
 # じみ猫 アプリ開発ページ
 
-![](img/jimineko_icon.png)
+![](pics/jimineko_icon.png)
 
 ## エーテリアの迷宮 ―　ダンジョン探索型RPG
+
+![](pics/feature_graphics_jp.png)
 
 [ゲーム説明](https://jimineko2000.github.io/Labyrinth-of-Aetheria/Labyrinth-of-Aetheria_jp.html)
 
