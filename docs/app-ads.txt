@@ -139,3 +139,9 @@ reforge.in, 353, RESELLER
 velismedia.com, 725, RESELLER
 velismedia.com, 1137, RESELLER
 unity.com, 4260083, DIRECT, 96cabb5fbdde37a7
+google.com, pub-2829656148883054, RESELLER
+google.com, pub-2829656148883054, RESELLER, f08c47fec0942fa0
+pubnative.net, 1007262, RESELLER, d641df8625486a7b
+pubnative.net, 1007501, RESELLER, d641df8625486a7b
+pubnative.net, 1008770, RESELLER, d641df8625486a7b
+themediagrid.com, FH3TKJ, RESELLER, 35d5010d7789b49d
